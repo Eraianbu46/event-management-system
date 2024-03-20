@@ -1,0 +1,12 @@
+.f-head{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    margin-bottom:3rem;
+  font-family: "Lucida Handwriting", cursive;
+
+}
+.Feastured{
+    margin-bottom:6rem;
+}

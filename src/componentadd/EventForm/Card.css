@@ -1,0 +1,33 @@
+.cards{
+    height: 30%;
+    margin: 10px;
+    display: flex;
+    object-fit: cover;
+    margin-bottom:3rem;
+}
+h1{
+    font-family: "Lucida Handwriting", cursive;
+}
+html,body{
+    display: grid;
+    height: 100%;
+    place-items: center;
+    text-align: center;
+    /* background-color: black; */
+}
+.card:hover{
+    transform: translateY(-10px);
+    transition: 0.5ms;
+    /* flex-wrap: wrap; */
+}
+.book:hover{
+    transform: scale(0.9);
+}
+.cards-image-top1{
+    height: 30%;
+    width: 20%;
+}
+.cardconcert{
+    height: 30%;
+    width: 10%;
+}

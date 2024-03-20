@@ -1,0 +1,42 @@
+.addhome{
+    display: flex;
+    padding: 0 0;
+    /* marg */
+}
+.home-l{
+    flex: 1 ;
+    /* margin: 4rem 3rem; */
+    margin-top: 10rem;
+    margin-left: 3rem;
+    margin-right: 0rem;
+    font-size: 1.5rem;
+    margin-bottom:1rem;
+
+}
+.home-l h1
+{
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    font-family: "Lucida Handwriting", cursive;
+}
+.home-r{
+    flex: 1 ;
+    /* margin: 1.5rem 1.5rem; */
+}
+.addhome-btn{
+  font-size: 1.3rem;
+  font-family: "Lucida Handwriting", cursive;
+
+}
+/* .home-r img{
+    margin: 6rem 2rem 6rem 6rem;
+    height: 25rem;
+    width: 30rem;
+} */
+.home-r img{
+    /* margin: 8rem 2rem 8rem 6rem; */
+    margin: 10rem 4rem 8rem 10rem;
+    margin-left: 2rem;
+    height: 25rem;
+    width: 35rem;
+}
